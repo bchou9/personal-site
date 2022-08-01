@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ronvicWebsite.github.io/static/css/main.9446fc31.css",
+    "main.js": "/ronvicWebsite.github.io/static/js/main.3452153c.js",
+    "static/js/787.21d17fcb.chunk.js": "/ronvicWebsite.github.io/static/js/787.21d17fcb.chunk.js",
+    "static/media/dcash.jpg": "/ronvicWebsite.github.io/static/media/dcash.34c66f45b6f1f5ea203e.jpg",
+    "static/media/pikmini.png": "/ronvicWebsite.github.io/static/media/pikmini.35307d68b8d17eea2081.png",
+    "static/media/exposure.jpg": "/ronvicWebsite.github.io/static/media/exposure.75594c5d35bf092a38e0.jpg",
+    "static/media/ronvic.png": "/ronvicWebsite.github.io/static/media/ronvic.b66463e553e69d8f6598.png",
+    "static/media/aegis.png": "/ronvicWebsite.github.io/static/media/aegis.b20df1edbae6ede9ea6b.png",
+    "static/media/app_icon.png": "/ronvicWebsite.github.io/static/media/app_icon.9632d4feb505dfb775c1.png",
+    "static/media/connect.png": "/ronvicWebsite.github.io/static/media/connect.bbcae6f9fd6a0a962c16.png",
+    "static/media/software engineer resume 2022 (Early Career) - Google Docs.pdf": "/ronvicWebsite.github.io/static/media/software engineer resume 2022 (Early Career) - Google Docs.2b9eee6525e27bbefe5a.pdf",
+    "static/media/kq.png": "/ronvicWebsite.github.io/static/media/kq.b0e435c10cefe593dedd.png",
+    "static/media/helvetica-neu.ttf": "/ronvicWebsite.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/mtsthelen.jpg": "/ronvicWebsite.github.io/static/media/mtsthelen.ec7e1bf1c18ed2195c0a.jpg",
+    "static/media/LaBelleAurore.woff2": "/ronvicWebsite.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/ronvicWebsite.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ronvicWebsite.github.io/index.html",
+    "main.9446fc31.css.map": "/ronvicWebsite.github.io/static/css/main.9446fc31.css.map",
+    "main.3452153c.js.map": "/ronvicWebsite.github.io/static/js/main.3452153c.js.map",
+    "787.21d17fcb.chunk.js.map": "/ronvicWebsite.github.io/static/js/787.21d17fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9446fc31.css",
+    "static/js/main.3452153c.js"
+  ]
+}
